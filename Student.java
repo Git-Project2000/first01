@@ -17,6 +17,10 @@ public class Student{
 		return this.name;
 	}
 
+	public String toString(){
+		return "Student [id="+this.id+",name="+this.name+"]";
+	}
+
 
 }
 

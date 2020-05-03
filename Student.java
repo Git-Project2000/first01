@@ -1,7 +1,7 @@
 public class Student{
 	private Integer id;
 	private String name;  //by2000
-	private Integer age;
+	private Integer age;  //by2000
 	private String classes;
 
 	public void setId(Integer id){

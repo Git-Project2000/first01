@@ -1,6 +1,7 @@
 public class Student{
 	private Integer id;
 	private String name;
+	private Integer age;
 
 	public void setId(Integer id){
 		thid.id=id;
